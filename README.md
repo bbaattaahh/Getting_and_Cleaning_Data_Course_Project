@@ -22,6 +22,6 @@ You should create one R script called run_analysis.R that does the following.
   6. Run source("run_analysis.R"), then it will generate a new file tiny.txt in your working directory.
 
 
-## Description of the data
+## Description of the used data
   1. There are some in the downloaded zip.
   2. http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
